@@ -1,0 +1,17 @@
+body {
+    background:#5fcbae;
+    margin:0 auto;
+    width:100%;
+  }
+  
+  
+  #pesta {
+    margin-top:10px;
+    background:#d6d9de;
+    height:100%;
+  -webkit-box-shadow: 8px 8px 5px #444;
+  -moz-box-shadow: 8px 8px 5px #444;
+  box-shadow: 8px 8px 5px #444;  
+    
+  }
+  
